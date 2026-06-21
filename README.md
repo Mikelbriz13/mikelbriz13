@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
  **Python • Pandas • NumPy • Matplotlib • SQL • GitHub**
 
- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/mikel-briz-desacarga)
+ 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mikel-briz-desacarga)
 
 > "Learning never exhausts the mind." — Leonardo da Vinci
 
